@@ -1,0 +1,4 @@
+﻿  C Projec Template.c
+C:\Users\pc-soft\Documents\Visual Studio Files\C files\TD2 exo 3 et 4\TD2 exo 3 et 4\C Projec Template.c(16,8): error C2296: '%': not valid as left operand has type 'float'
+C:\Users\pc-soft\Documents\Visual Studio Files\C files\TD2 exo 3 et 4\TD2 exo 3 et 4\C Projec Template.c(17,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\pc-soft\Documents\Visual Studio Files\C files\TD2 exo 3 et 4\TD2 exo 3 et 4\C Projec Template.c(19,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'

@@ -1,0 +1,3 @@
+﻿  TD1 Exo 8.c
+C:\Users\pc-soft\Documents\Visual Studio Files\C files\TD1 Exo 08\TD1 Exo 08\TD1 Exo 8.c(4,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  TD1 Exo 08.vcxproj -> C:\Users\pc-soft\Documents\Visual Studio Files\C files\TD1 Exo 08\x64\Debug\TD1 Exo 08.exe
