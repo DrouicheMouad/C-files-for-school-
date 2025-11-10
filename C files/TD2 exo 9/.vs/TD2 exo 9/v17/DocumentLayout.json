@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 exo 9\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D866AC9-22EF-4E61-B3C8-82306D32363F}|TD2 exo 9\\TD2 exo 9.vcxproj|C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 exo 9\\TD2 exo 9\\C Projec Template.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D866AC9-22EF-4E61-B3C8-82306D32363F}|TD2 exo 9\\TD2 exo 9.vcxproj|solutionrelative:TD2 exo 9\\C Projec Template.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C Projec Template.c",
+              "DocumentMoniker": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 exo 9\\TD2 exo 9\\C Projec Template.c",
+              "RelativeDocumentMoniker": "TD2 exo 9\\C Projec Template.c",
+              "ToolTip": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 exo 9\\TD2 exo 9\\C Projec Template.c",
+              "RelativeToolTip": "TD2 exo 9\\C Projec Template.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-10T16:47:28.724Z",
+              "EditorCaption": ""
             }
           ]
         }
