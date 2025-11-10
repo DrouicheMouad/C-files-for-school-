@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F20B217-206B-4AA4-9AA6-D7B3C718465C}|TD2 solutions\\TD2 solutions.vcxproj|C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 solutions\\TD2 solutions\\C Projec Template.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F20B217-206B-4AA4-9AA6-D7B3C718465C}|TD2 solutions\\TD2 solutions.vcxproj|solutionrelative:TD2 solutions\\C Projec Template.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F20B217-206B-4AA4-9AA6-D7B3C718465C}|TD2 solutions\\TD2 solutions.vcxproj|C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation with Real Coefficients.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +25,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quadratic Equation with Real Coefficients.c",
+              "DocumentMoniker": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation with Real Coefficients.c",
+              "RelativeDocumentMoniker": "..\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation with Real Coefficients.c",
+              "ToolTip": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation with Real Coefficients.c",
+              "RelativeToolTip": "..\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation With Real Coefficients 2\\Quadratic Equation with Real Coefficients.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-01T07:53:15.287Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "C Projec Template.c",
               "DocumentMoniker": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 solutions\\TD2 solutions\\C Projec Template.c",
               "RelativeDocumentMoniker": "TD2 solutions\\C Projec Template.c",
-              "ToolTip": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 solutions\\TD2 solutions\\C Projec Template.c*",
-              "RelativeToolTip": "TD2 solutions\\C Projec Template.c*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwD0AAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 solutions\\TD2 solutions\\C Projec Template.c",
+              "RelativeToolTip": "TD2 solutions\\C Projec Template.c",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-27T21:34:06.076Z",
               "EditorCaption": ""

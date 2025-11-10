@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "TD2 exo 3 et 4\\C Projec Template.c",
               "ToolTip": "C:\\Users\\pc-soft\\Documents\\Visual Studio Files\\C files\\TD2 exo 3 et 4\\TD2 exo 3 et 4\\C Projec Template.c",
               "RelativeToolTip": "TD2 exo 3 et 4\\C Projec Template.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-21T09:43:45.412Z",
               "EditorCaption": ""

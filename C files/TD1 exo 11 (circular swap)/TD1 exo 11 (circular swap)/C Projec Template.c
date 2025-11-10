@@ -12,7 +12,7 @@ int main() {
 	B = A;
 	A = C;
 	C = temp;
-	printf("Values after swiping real numbers\nA = %f\nB = %f\nC = %f\n", A, B, C);
+	printf("Values after swaping \nA = %f\nB = %f\nC = %f\n", A, B, C);
 
 	return 0;
 }

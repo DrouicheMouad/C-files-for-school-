@@ -1,2 +1,5 @@
-﻿  C Projec Template.c
-  TD2 solutions.vcxproj -> C:\Users\pc-soft\Documents\Visual Studio Files\C files\TD2 solutions\x64\Debug\TD2 solutions.exe
+﻿  Quadratic Equation with Real Coefficients.c
+  C Projec Template.c
+  Generating Code...
+C Projec Template.obj : error LNK2005: main already defined in Quadratic Equation with Real Coefficients.obj
+C:\Users\pc-soft\Documents\Visual Studio Files\C files\TD2 solutions\x64\Debug\TD2 solutions.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -124,6 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Quadratic Equation With Real Coefficients 2\Quadratic Equation With Real Coefficients 2\Quadratic Equation with Real Coefficients.c" />
     <ClCompile Include="C Projec Template.c">
       <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">CompileAsC</CompileAs>
     </ClCompile>

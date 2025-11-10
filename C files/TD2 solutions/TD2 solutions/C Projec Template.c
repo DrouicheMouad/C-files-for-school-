@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-
-
+#include <math.h>
 int main() {
 	// 03 Even or Odd
 	int N;
@@ -12,8 +11,18 @@ int main() {
 		printf("%d is odd", N);
 	printf("\n\n***********************\n\n");
 
-		// 04 Max of three numbers
-		float a, b, c, max;
+	//04 Absolute Value
+	float x;
+	printf("Enter a real number x = "); scanf("%f", &x);
+	if (x > 0)
+		printf("|%f| = %f", x, x);
+	else
+		printf("|%f| = %f", x, -x);
+	printf("\n\n***********************\n\n");
+
+
+	// 05 Max of three numbers
+	float a, b, c, max;
 	printf("Enter a real number		a = "); scanf("%f", &a);
 	printf("Enter a real number		b = "); scanf("%f", &b);
 	printf("Enter a real number		c = "); scanf("%f", &c);
@@ -42,15 +51,15 @@ int main() {
 		printf("Note: b = c ");
 	printf("\n\n***********************\n\n");
 
-		// 06 Mentions 
-		float Note;
+	// 06 Mentions 
+	float Note;
 	printf("Entrez votre note "); scanf("%f", &Note);
 	printf("Mention : ");
 
 	if (0 > Note  || Note > 20)
 		printf("Note invalide");
 	else if (Note < 10)
-		printf("Ajourné\n");
+		printf("Ajourn\u00E9\\n");
 	else if (Note < 12)
 		printf("Passable\n");
 	else if (Note < 14)
@@ -73,6 +82,25 @@ int main() {
 		printf("%d is not a leap year", year);
 
 	printf("\n\n***********************\n\n");
+
+	//08  Triangle Type
+	float A, B, C;
+	printf("Enter the first side's length	"); scanf("%f", &A);
+	printf("Enter the second side's length	"); scanf("%f", &B);
+	printf("Enter the third side's length	"); scanf("%f", &C);
+	bool Possible = (A + B > C && A + C > B && B + C > A);
+	bool Isosceles = (A == B || B == C || A == C);
+	if (!Possible)
+		printf("Can't make a triangle using these lenghts\n");
+	else {
+		if (A == B && B==C)
+			printf("This triangle is equilateral\n");
+		else if (Isosceles)
+			printf("This triangle is isosceless\n");
+		else
+			printf("This trianlge is scalene\n");
+	}
+
 
 
 		return 0;

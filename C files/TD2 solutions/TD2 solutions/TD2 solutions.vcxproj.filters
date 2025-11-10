@@ -18,5 +18,8 @@
     <ClCompile Include="C Projec Template.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Quadratic Equation With Real Coefficients 2\Quadratic Equation With Real Coefficients 2\Quadratic Equation with Real Coefficients.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
